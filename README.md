@@ -11,7 +11,7 @@ As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a
 
 ### Featured Projects
 - Sales Data Warehouse
-  - Designed and implemented a sales data warehouse schema that integrated **CRM and ERP** sources into a relational model using an **end-to-end pipeline**
+  - Designed and implemented a sales data warehouse schema that integrated **CRM and ERP** sources using an **end-to-end pipeline** for data transformation, exploration, and analysis.
 - Insurance Data Analysis and Cost Prediction:
   - Conducted **hypothesis testing and applied supervised learning techniques** to identify factors that drive high medical costs, while **suggesting actionable business insights**
 - Detecting Pneumonia Presence using Machine Learning:
@@ -20,7 +20,7 @@ As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a
   - Analyzed Illinois traffic stop data to uncover patterns about the factors that shape traffic demand and escalation risk in order to serve as a foundation for **improving day-to-day operations**
  
 ### Tech Stack
-- **Languages:** Python, SQL, R
-- **Techniques:** EDA, Feature Engineering, Supervised & Unsupervised ML, Statistical Modeling
-- **Visualization:** Matplotlib, Seaborn, Tableau
+- **Languages:** SQL, Python, R
+- **Techniques:** Database Design, ETL Pipelines, Advanced Querying, EDA, Feature Engineering, Supervised & Unsupervised ML, Statistical Modeling
+- **Visualization:** Tableau, Matplotlib, Seaborn
 - **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow

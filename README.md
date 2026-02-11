@@ -6,6 +6,7 @@ As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a
 
 🎓 Education
 - **M.S. in Data Science** — University of Colorado Boulder
+
   Focus: Machine Learning and Statistical Modeling using the Python and SQL languages
 - **B.S. in Biochemistry**, Minor in Biostatistics — Loyola University Chicago
 

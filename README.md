@@ -13,6 +13,7 @@ As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a
 ### Featured Projects
 - Sales Data Warehouse
   - Designed and implemented a sales data warehouse schema that integrated **CRM and ERP** sources using an **end-to-end pipeline** for data transformation, exploration, and analysis.
+  - Built a sales dashboard visualizing key performance indicators (KPIs), sales and profit trends, and product performance.
 - Insurance Data Analysis and Cost Prediction:
   - Conducted **hypothesis testing and applied supervised learning techniques** to identify factors that drive high medical costs, while **suggesting actionable business insights**
 - Detecting Pneumonia Presence using Machine Learning:

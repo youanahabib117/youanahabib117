@@ -4,7 +4,7 @@ I'm an aspiring Data Scientist passionate about bringing the power data holds in
 
 As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a Data Scientist, I've seen the unimaginable impact data has, and I believe with my understanding and knowledge of both, I can help make great impacts in healthcare applications.
 
-🎓 Education
+### Education
 - **M.S. in Data Science** — University of Colorado Boulder
 
   Focus: Machine Learning and Statistical Modeling using the Python and SQL languages

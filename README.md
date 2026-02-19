@@ -22,7 +22,7 @@ As an EMT, I've seen firsthand the weaknesses of the healthcare system, and as a
   - Analyzed Illinois traffic stop data to uncover patterns about the factors that shape traffic demand and escalation risk in order to serve as a foundation for **improving day-to-day operations**
  
 ### Tech Stack
-- **Languages:** SQL, Python, R
-- **Techniques:** Database Design, ETL Pipelines, Advanced Querying, EDA, Feature Engineering, Supervised & Unsupervised ML, Statistical Modeling
-- **Visualization:** Tableau, Matplotlib, Seaborn
-- **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Programming & Data:** MS Excel (pivot tables, formulas, conditional programming), Python (Pandas, NumPy, Scikit-learn, Tensorflow), SQL (views, tables, querying, joins, transformations, validation)
+- **Methodology:** Data Cleaning & Transformation, Feature Engineering, Hypothesis Testing, Statistical Analysis, Probability, Statistics
+- **Data Visualization & BI:** Tableau, Power BI (conceptual and transferable), KPI Design, EDA, Matplotlib, Seaborn
+- **Data Engineering:** ETL Pipelines, Relational Databases, Data Modeling, Data Validation, Data Quality Checks
